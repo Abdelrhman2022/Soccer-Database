@@ -7,6 +7,9 @@ This soccer database comes from Kaggle and is well suited for data analysis and 
 # What do I need to install?
 You will need an installation of Python, plus the following libraries:
 
+# Project Overview
+In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+
 * pandas
 * NumPy
 * Matplotlib
