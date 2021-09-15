@@ -15,14 +15,25 @@ In this project, you will analyze a dataset and then communicate your findings a
 * Matplotlib
 * csv
 # During the analysis of the dataset I wanna focus answer these questions:
+
 How many matches are there in each league in the 2016 season?
+
 Which League had the most matches end as draw in the 2016 season?
+
 Which League had the most Wins or not Draw in the 2016 season?
+
 Which team had lost the fewest matches in the 2016 season?
+
 Which League had the most goals in the 2016 season?
+
 Which teams had the most wins of matches in the 2016 season?
+
 What teams improved the most over the time period?
+
 Which players had the most penalties?
+
 What team attributes lead to the most victories?
+
 How many Players have overall rating more than 90?
+
 What are the attributes that contribute to the players' overall rating?
